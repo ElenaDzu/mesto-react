@@ -34,7 +34,7 @@ function Card({ card, onCardClick, onCardLike, onCardDelete }) {
         onClick={handleClick}
         style={{ backgroundImage: `url(${card.link})` }}
         src={card.link}
-        alt="Изображен пейзаж"
+        alt={card.name}
       />
       <div className="element__place">
         <h2 className="element__title">{card.name}</h2>
