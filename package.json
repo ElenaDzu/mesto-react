@@ -1,6 +1,5 @@
 {
   "name": "mesto-react",
-  "homepage": "https://elenadzu.github.io/mesto-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,6 +31,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://elenadzu.github.io/mesto-react/",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
